@@ -43,6 +43,6 @@ with col2:
 
 st.markdown("<hr/>", unsafe_allow_html=True)
 st.markdown(
-    '<p style="color:#555; font-size:12px;">Built with Streamlit · black & white, on purpose.</p>',
+    '<p style="color:#555; font-size:12px;">Built with Streamlit 🙃.</p>',
     unsafe_allow_html=True,
 )
